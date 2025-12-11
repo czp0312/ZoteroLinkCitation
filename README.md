@@ -30,6 +30,7 @@ Author-year example (only the year part is linked):
 > Before running the `ZoteroLinkCitationAll` macro, **please ensure you have backed up your document**. The operations performed by this script are bulk actions that are irreversible. A backup ensures that you can restore your original document in case anything does not go as expected.
 
 This guide is aimed at beginners and provides detailed instructions on importing and running the `ZoteroLinkCitation.bas` script in Microsoft Word.
+“ZoteroLinkCitationOneTime” 支持一次性全部引用且没有提示
 
 ### Prerequisites
 
